@@ -1,2 +1,2 @@
 # BioPy
-Useful Python Codes for Genetral Biological Computations and Genomic-Proteomic Research
+Useful Python Codes for General Biological Computations and Genomic/Proteomic Research
